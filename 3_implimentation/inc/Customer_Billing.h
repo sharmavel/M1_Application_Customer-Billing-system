@@ -21,5 +21,4 @@ long cash_received, newt_amount;
 float rate, discount, vat, t_amount=0, amount1, float_part;
 char itemcode[5], date[20];
 #endif
-© 2021 GitHub, Inc.
-Terms
+
