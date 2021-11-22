@@ -1,9 +1,12 @@
-LOW LEVEL REQUIREMENTS:
-    Invoice:
-       Collects the record from the customers for purchased product and provides the invoice bill.
+|ID|Description|
+|---|-----------|
+|LLR_1| Collects the record from the customers for purchased product and provides the invoice bill.|
+|LLR_2| Display all the products that are ordered.|
 
-    Main form:
-        Display all the customer and products details.
-      
-     Ordered products:
-         Display all the products that are ordered.
+
+
+
+
+
+
+
