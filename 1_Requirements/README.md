@@ -56,7 +56,6 @@ Threads:
 
 Why:
 
-
     * This project will help the store keeper in fast billing
     * This project enable store keeper to maintain a great database of all
      customers visited and purchase product from store.
