@@ -645,7 +645,7 @@ static void UnityPrintExpectedAndActualStringsLen(const char* expected,
 
 /*-----------------------------------------------
  * Assertion & Control Helpers
- -----------------------------------------------/
+ *-----------------------------------------------*/
 
 /-----------------------------------------------/
 static int UnityIsOneArrayNull(UNITY_INTERNAL_PTR expected,
@@ -679,9 +679,9 @@ static int UnityIsOneArrayNull(UNITY_INTERNAL_PTR expected,
 
 /*-----------------------------------------------
  * Assertion Functions
- -----------------------------------------------/
+ *-----------------------------------------------*/
 
-/-----------------------------------------------/
+/*-----------------------------------------------*/
 void UnityAssertBits(const UNITY_INT mask,
                      const UNITY_INT expected,
                      const UNITY_INT actual,
@@ -2108,4 +2108,4 @@ int UnityTestMatches(void)
 }
 
 #endif /* UNITY_USE_COMMAND_LINE_ARGS */
-/-----------------------------------------------/
+/*-----------------------------------------------*/
