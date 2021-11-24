@@ -16,9 +16,9 @@
 
 ### Setup to run Project
 
-- An integrated development environment (Suggesting Visual Studio Code).
-- GCC compiler to compile the project.
-- "make" to run the Makefile smoothly.
+  - An integrated development environment (Suggesting Visual Studio Code).
+  - GCC compiler to compile the project.
+  - "make" to run the Makefile smoothly.
 
 ### Steps To run Project
 
