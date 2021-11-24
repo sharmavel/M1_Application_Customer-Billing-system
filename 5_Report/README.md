@@ -106,5 +106,13 @@ Behavioral Diagram 1
 Behavioral Diagram 2
 ![Behavioral 2](https://user-images.githubusercontent.com/94122920/142400191-816c2d42-5f40-47f4-ac1f-8521c86d4118.jpeg)
 
+Strucutural Diagram 1
+![Structural 1](https://user-images.githubusercontent.com/94122920/142399389-75f52669-ec8a-4bf9-84b9-035051acde4c.jpeg)
+
+Structural Diagram 2
+![Structural 2](https://user-images.githubusercontent.com/94122920/142399866-99354dd0-ea12-494a-ab06-77da1ac0df97.jpeg)
+
+
+
 
 
