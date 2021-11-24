@@ -1,10 +1,10 @@
-# INTRODUCTION:-
+# INTRODUCTION
 
          This project is about Customer Billing System.This project helps
          the shopkeeper to track the customers information and their
          product details.
 
-# FEATURES OF CUSTOMER BILLING SYSTEM:-
+# FEATURES OF CUSTOMER BILLING SYSTEM
 
 The Customer Billing System has :
 
@@ -17,7 +17,7 @@ The Customer Billing System has :
     * Provides a convenient solution of billing pattern.
     * Make an easy to use environment for users and customers.
 
-# IDENTIFYING THE REQUIREMENTS:-
+# IDENTIFYING THE REQUIREMENTS
 
    Technologies and Tools Used:
 
@@ -32,7 +32,7 @@ The Customer Billing System has :
    
          RAM 4 GB DDR4 Operating System -Windows 10,Linux(Ubuntu)
 
-# SWOT ANALYSIS:
+# SWOT ANALYSIS
 
 Strength:
 
