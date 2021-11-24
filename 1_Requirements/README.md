@@ -1,10 +1,10 @@
-INTRODUCTION:-
+# INTRODUCTION:-
 
          This project is about Customer Billing System.This project helps
          the shopkeeper to track the customers information and their
          product details.
 
-FEATURES OF CUSTOMER BILLING SYSTEM:-
+# FEATURES OF CUSTOMER BILLING SYSTEM:-
 
 The Customer Billing System has :
 
@@ -17,7 +17,7 @@ The Customer Billing System has :
     * Provides a convenient solution of billing pattern.
     * Make an easy to use environment for users and customers.
 
-IDENTIFYING THE REQUIREMENTS:-
+# IDENTIFYING THE REQUIREMENTS:-
 
    Technologies and Tools Used:
 
@@ -32,7 +32,7 @@ IDENTIFYING THE REQUIREMENTS:-
    
          RAM 4 GB DDR4 Operating System -Windows 10,Linux(Ubuntu)
 
-SWOT ANALYSIS:
+# SWOT ANALYSIS:
 
 Strength:
 
@@ -52,7 +52,7 @@ Threads:
       By using this automation process, sometimes system might get corrupt.
       Provide false Information about the Customer.
 
-4W'S AND 1H
+# 4W'S AND 1H
 
 Why:
 
@@ -83,7 +83,7 @@ How:
 
     This Web based application automate the process of Ordering and billing of departmental store.
 
-HIGH LEVEL REQUIREMENTS:-
+# HIGH LEVEL REQUIREMENTS:-
 
 |ID|Description|Status|
 |---|------|-------|
@@ -91,7 +91,7 @@ HIGH LEVEL REQUIREMENTS:-
 |HLR_2|To collect and maintain the data of customers for purchased items.|Implimented|
 |HLR_3|Fully automated tool|Future|
 
-LOW LEVEL PRQUIREMENTS:-
+# LOW LEVEL PRQUIREMENTS:-
 
 |ID|Description|Status|
 |--|------|-------|
