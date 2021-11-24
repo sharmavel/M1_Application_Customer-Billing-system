@@ -6,7 +6,7 @@
 
 # FEATURES OF CUSTOMER BILLING SYSTEM:-
 
-The Customer Billing System has :
+## The Customer Billing System has :
 
     * Add and maintain records of available products.
     * Add and maintain customer details.
@@ -34,27 +34,27 @@ The Customer Billing System has :
 
 # SWOT ANALYSIS:
 
-Strength:
+## Strength:
 
     It is an automate application method ,so It will reduce the Human power.
 
-Weakness:
+## Weakness:
 
     Though it is an Automated process, it is not fully automated.
 
-Opportunities:
+## Opportunities:
 
      It will Increase the company efficiency.
      Requires less man power in IShops etc...
 
-Threads:
+## Threads:
 
       By using this automation process, sometimes system might get corrupt.
       Provide false Information about the Customer.
 
 # 4W'S AND 1H
 
-Why:
+## Why:
 
     * This project will help the store keeper in fast billing
     * This project enable store keeper to maintain a great database of all
@@ -62,24 +62,24 @@ Why:
     * Project will enable to see report regarding product and category.
     * Easy to maintain in future prospect.
 
-What:
+## What:
 
     * Add and maintain records of available products.
     * Add and maintain customer details.
     * Add and maintain description of new products.
     * Add and maintain new entered category of products.
 
-Where:
+## Where:
 
     *Departmental stores
     *Medicals.
     *Shops etc..
 
-When:
+## When:
 
     While Billing the products.
 
-How:
+## How:
 
     This Web based application automate the process of Ordering and billing of departmental store.
 
@@ -100,15 +100,16 @@ How:
 |LLR_3|Display all the products that are ordered.|
 
 # DESIGN:
-Behavioral:
-
+## Behavioral:
+ ---
 Behavioral Diagram 1
 ![Behavioral](https://user-images.githubusercontent.com/94122920/142400159-3b7ef063-5e90-474d-91a7-ef4020df4530.jpeg)
 
 Behavioral Diagram 2
 ![Behavioral 2](https://user-images.githubusercontent.com/94122920/142400191-816c2d42-5f40-47f4-ac1f-8521c86d4118.jpeg)
 
-Structural:
+## Structural:
+---
 Strucutural Diagram 1
 ![Structural 1](https://user-images.githubusercontent.com/94122920/142399389-75f52669-ec8a-4bf9-84b9-035051acde4c.jpeg)
 
@@ -132,13 +133,13 @@ Structural Diagram 2
 ## Manual
 
 ### Setup to run Project
-
+---
 - An integrated development environment (Suggesting Visual Studio Code).
 - GCC compiler to compile the project.
 - "make" to run the Makefile smoothly.
 
 ### Steps To run Project
-
+---
 1. First clone the repository from the Github.
 2. Open the repository in an IDE (Suggesting Visual Studio Code).
 3. The next step is to build the project with the help of make command :
@@ -149,7 +150,7 @@ Structural Diagram 2
    - make test
 
 # Testplan and Output:
-
+---
 |Test ID|Description|Exp I/P|Exp O/P|Actual O/P|Type Of Test|
 |-----|------|-----|-----|-----|------|
 |H_01|Check All the product price is entered|Id no|Price of Product|Priced Displayed|Requirement Based|
