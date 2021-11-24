@@ -5,6 +5,9 @@
 
 # Linux c/c++ Badge
 [![Linux C/C++ CI](https://github.com/sharmavel/M1_Application_Customer-Billing-system/actions/workflows/Linux_c-ccp.yml/badge.svg)](https://github.com/sharmavel/M1_Application_Customer-Billing-system/actions/workflows/Linux_c-ccp.yml)
+ 
+ # windows c/c++ Badge
+ [![Windows C/C++ CI](https://github.com/sharmavel/M1_Application_Customer-Billing-system/actions/workflows/windows_c-ccp.yml/badge.svg)](https://github.com/sharmavel/M1_Application_Customer-Billing-system/actions/workflows/windows_c-ccp.yml)
 
 # Ccpcheck
 [![Code Quality - Static Code - Cppcheck](https://github.com/sharmavel/M1_Application_Customer-Billing-system/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/sharmavel/M1_Application_Customer-Billing-system/actions/workflows/cppcheck.yml)
