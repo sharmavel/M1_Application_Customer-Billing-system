@@ -87,14 +87,14 @@ How:
 
 |ID|Description|Status|
 |---|------|-------|
-|HLR_1|This project help in store keeper fast billing.|Implimented|
-|HLR_2|To collect and maintain the data of customers for purchased items.|Implimented|
+|HLR_1|This project help in store keeper fast billing.|Implemented|
+|HLR_2|To collect and maintain the data of customers for purchased items.|Implemented|
 |HLR_3|Fully automated tool|Future|
 
 ## LOW LEVEL PRQUIREMENTS:-
 
 |ID|Description|Status|
 |--|------|-------|
-|LLR_1|Collects the record from the customers for purchased product and provides the invoice bill.|
-|LLR_2|Display all the customer and products details.|
-|LLR_3|Display all the products that are ordered.|
+|LLR_1|Collects the record from the customers for purchased product and provides the invoice bill.|Implemented|
+|LLR_2|Display all the customer and products details.|Implemented|
+|LLR_3|Display all the products that are ordered.|Implemented|
